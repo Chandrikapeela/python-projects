@@ -64,28 +64,46 @@ Here's an example of how to use the system:
 Python Banking System
 
 1.Create Account
+
 2.Perform Transaction
+
 3.Check Balance
+
 4.Transaction History
+
 5.Exit
+
 Enter your choice: 1
+
 Enter your name: Chandrika
+
 Enter initial balance: 1000
-Account created successfully. Account Number: 12345678
+
+Account created successfully.
+Account Number: 12345678
 
 Enter your choice: 2
+
 Enter account number: 12345678
+
 Enter transaction type (deposit/withdraw): deposit
+
 Enter transaction amount: 500
+
 Transaction completed.
 
 Enter your choice: 3
+
 Enter account number: 12345678
+
 Account Balance: $1500
 
 Enter your choice: 4
+
 Enter account number: 12345678
+
 Transaction History:
+
 Deposit: $500
 
 
